@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/aliens-designer/frontendmentor-3-column-preview-cards.git)
-- Live Site URL: [Add live site URL here]([https://karimelgarhy.github.io/frontendmentor-3-column-preview-cards/])
+- Live Site URL: [Add live site URL here](https://karimelgarhy.github.io/frontendmentor-3-column-preview-cards/)
 
 ## My process
 
